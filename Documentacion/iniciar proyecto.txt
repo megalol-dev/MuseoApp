@@ -1,0 +1,22 @@
+INICIAR PROYECTO – MUSEO VIRTUAL (DAW)
+------------------------------------
+
+REQUISITOS:
+- Tener PHP instalado (PHP 7.4 o superior)
+- (se usa SQLite como base de datos)
+
+PASOS PARA INICIAR EL PROYECTO:
+
+1) Abrir una terminal y acceder a la carpeta del proyecto
+
+   cd ruta/del/proyecto/MuseoApp (o abrelo desde un IDE)
+
+2) Abrir el navegador y acceder a:
+
+   Web pública:
+   http://localhost:8000/index.html
+
+   Login / Panel de control:
+   http://localhost:8000/login.php
+
+
