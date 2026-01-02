@@ -51,7 +51,7 @@ MuseoApp/
 ├── delete_obra.php
 └── img/
 ```
---
+---
 
 ## ▶️ Cómo ejecutar el proyecto
 
@@ -66,7 +66,7 @@ MuseoApp/
    Abre en el navegador: http://localhost:8000/index.html
    
     ```
---
+---
 
 🔐 Credenciales de acceso para el panel de administrador
 Usuario: admin
@@ -74,6 +74,6 @@ Contraseña: admin123
 
 Las contraseñas se almacenan de forma segura mediante hash.
 
---
+---
 
 Nota -> dentro del proyecto tienes una carpeta llamada documentación, dentro puedes obtener toda la información que necesitas. 
