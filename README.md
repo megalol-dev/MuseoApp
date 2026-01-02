@@ -36,7 +36,7 @@ Proyecto desarrollado como práctica del ciclo **DAW**, utilizando PHP, SQLite y
 ---
 
 ## 📂 Estructura del proyecto
-
+```
 MuseoApp/
 ├── index.html
 ├── style.css
@@ -50,7 +50,7 @@ MuseoApp/
 ├── save_obra.php
 ├── delete_obra.php
 └── img/
-
+```
 --
 
 ## ▶️ Cómo ejecutar el proyecto
@@ -64,7 +64,8 @@ MuseoApp/
    Inicia el servidor PHP: php -S localhost:8000
   
    Abre en el navegador: http://localhost:8000/index.html
-
+   
+    ```
 --
 
 🔐 Credenciales de acceso
